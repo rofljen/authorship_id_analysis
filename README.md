@@ -47,7 +47,7 @@ The analysis suggests that the four authors differ in measurable stylistic ways.
 2. Run the preprocessing or analysis script:
    ```bash
    python essay_scraper.py
-   python analysis.py
+   python text_analysis.py
    ```
 
 ## Limitations
